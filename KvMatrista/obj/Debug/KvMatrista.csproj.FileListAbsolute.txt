@@ -1,0 +1,14 @@
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\obj\Debug\KvMatrista.csprojAssemblyReference.cache
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\obj\Debug\KvMatrista.csproj.CoreCompileInputs.cache
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\bin\Debug\KvMatrista.exe.config
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\bin\Debug\KvMatrista.exe
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\bin\Debug\KvMatrista.pdb
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\obj\Debug\KvMatrista.exe
+C:\Users\permy\source\repos\KvMatrista\KvMatrista\obj\Debug\KvMatrista.pdb
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\bin\Debug\KvMatrista.exe.config
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\bin\Debug\KvMatrista.exe
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\bin\Debug\KvMatrista.pdb
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\obj\Debug\KvMatrista.csprojAssemblyReference.cache
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\obj\Debug\KvMatrista.csproj.CoreCompileInputs.cache
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\obj\Debug\KvMatrista.exe
+C:\Users\permy\Desktop\Задания2\KvMatrista(5)\KvMatrista\obj\Debug\KvMatrista.pdb
